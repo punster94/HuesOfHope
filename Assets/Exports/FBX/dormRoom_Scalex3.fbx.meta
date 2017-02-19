@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 8e2667f953cde3f488b04c2278ec2d66
+timeCreated: 1474851956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed_w_blankets_2:backBottomRack
+    100002: Bed_w_blankets_2:backLeftHinge
+    100004: Bed_w_blankets_2:backLeftPost
+    100006: Bed_w_blankets_2:backMiddleRack
+    100008: Bed_w_blankets_2:backRightHinge
+    100010: Bed_w_blankets_2:backRightPost
+    100012: Bed_w_blankets_2:backTopRack
+    100014: Bed_w_blankets_2:bed_grp
+    100016: Bed_w_blankets_2:bedFrame
+    100018: Bed_w_blankets_2:blanketOver
+    100020: Bed_w_blankets_2:blanketUnder
+    100022: Bed_w_blankets_2:frontBottomPost
+    100024: Bed_w_blankets_2:frontLeftHinge
+    100026: Bed_w_blankets_2:frontLeftPost
+    100028: Bed_w_blankets_2:frontMiddlePost
+    100030: Bed_w_blankets_2:frontRightHinge
+    100032: Bed_w_blankets_2:frontRightPost
+    100034: Bed_w_blankets_2:frontTopPost
+    100036: Bed_w_blankets_2:leftFrameBar
+    100038: Bed_w_blankets_2:mattress
+    100040: Bed_w_blankets_2:rightFrameBar
+    100042: Bed_w_blankets_3:backBottomRack
+    100044: Bed_w_blankets_3:backLeftHinge
+    100046: Bed_w_blankets_3:backLeftPost
+    100048: Bed_w_blankets_3:backMiddleRack
+    100050: Bed_w_blankets_3:backRightHinge
+    100052: Bed_w_blankets_3:backRightPost
+    100054: Bed_w_blankets_3:backTopRack
+    100056: Bed_w_blankets_3:bed_grp
+    100058: Bed_w_blankets_3:bedFrame
+    100060: Bed_w_blankets_3:blanketOver
+    100062: Bed_w_blankets_3:blanketUnder
+    100064: Bed_w_blankets_3:frontBottomPost
+    100066: Bed_w_blankets_3:frontLeftHinge
+    100068: Bed_w_blankets_3:frontLeftPost
+    100070: Bed_w_blankets_3:frontMiddlePost
+    100072: Bed_w_blankets_3:frontRightHinge
+    100074: Bed_w_blankets_3:frontRightPost
+    100076: Bed_w_blankets_3:frontTopPost
+    100078: Bed_w_blankets_3:leftFrameBar
+    100080: Bed_w_blankets_3:mattress
+    100082: Bed_w_blankets_3:rightFrameBar
+    100084: chair
+    100086: chair_02:chair
+    100088: couch_02:couch
+    100090: desk_02:deskStand
+    100092: desk_03:deskStand
+    100094: desk_04:deskStand
+    100096: //RootNode
+    100098: dormRoom_WITH_Roof
+    100100: dresser_13:dresser
+    100102: dresser_13:dresserBody
+    100104: dresser_13:midDrawer_01
+    100106: dresser_13:midDrawer_02
+    100108: dresser_13:midDrawer_03
+    100110: dresser_13:topLeftDrawer_01
+    100112: dresser_13:topLeftDrawer_02
+    100114: dresser_13:topRightDrawer_01
+    100116: dresser_13:topRightDrawer_02
+    100118: dresser_14:dresser
+    100120: dresser_14:dresserBody
+    100122: dresser_14:midDrawer_01
+    100124: dresser_14:midDrawer_02
+    100126: dresser_14:midDrawer_03
+    100128: dresser_14:topLeftDrawer_01
+    100130: dresser_14:topLeftDrawer_02
+    100132: dresser_14:topRightDrawer_01
+    100134: dresser_14:topRightDrawer_02
+    100136: guitar_09_HighRes:fretBoard
+    100138: guitar_09_HighRes:fretEnd
+    100140: guitar_09_HighRes:guitar
+    100142: guitar_09_HighRes:guitarBackSupport
+    100144: guitar_09_HighRes:guitarBody
+    100146: guitar_09_HighRes:guitarHead
+    100148: guitar_09_HighRes:knob
+    100150: guitar_09_HighRes:knob 1
+    100152: guitar_09_HighRes:knob 2
+    100154: guitar_09_HighRes:knob 3
+    100156: guitar_09_HighRes:knob 4
+    100158: guitar_09_HighRes:knob 5
+    100160: guitar_09_HighRes:knob_01
+    100162: guitar_09_HighRes:knob_02
+    100164: guitar_09_HighRes:knob_03
+    100166: guitar_09_HighRes:knob_04
+    100168: guitar_09_HighRes:knob_05
+    100170: guitar_09_HighRes:knob_06
+    100172: guitar_09_HighRes:knob_grp
+    100174: guitar_09_HighRes:knobPlate
+    100176: guitar_09_HighRes:knobPlate 1
+    100178: guitar_09_HighRes:knobPlate 2
+    100180: guitar_09_HighRes:knobPlate 3
+    100182: guitar_09_HighRes:knobPlate 4
+    100184: guitar_09_HighRes:knobPlate 5
+    100186: guitar_09_HighRes:knobPole
+    100188: guitar_09_HighRes:knobPole 1
+    100190: guitar_09_HighRes:knobPole 2
+    100192: guitar_09_HighRes:knobPole 3
+    100194: guitar_09_HighRes:knobPole 4
+    100196: guitar_09_HighRes:knobPole 5
+    100198: guitar_09_HighRes:knobStringTie
+    100200: guitar_09_HighRes:knobStringTie 1
+    100202: guitar_09_HighRes:knobStringTie 2
+    100204: guitar_09_HighRes:knobStringTie 3
+    100206: guitar_09_HighRes:knobStringTie 4
+    100208: guitar_09_HighRes:knobStringTie 5
+    100210: laundrybasket_02:pCube22
+    100212: laundrybasket_03:pCube22
+    100214: laundrybasket_04:pCube22
+    100216: livingRoomTable_03:leftLeg_01
+    100218: livingRoomTable_03:leftLeg_02
+    100220: livingRoomTable_03:rightLeg_01
+    100222: livingRoomTable_03:rightLeg_02
+    100224: livingRoomTable_03:table
+    100226: livingRoomTable_03:table 1
+    100228: livingRoomTable_04:leftLeg_01
+    100230: livingRoomTable_04:leftLeg_02
+    100232: livingRoomTable_04:rightLeg_01
+    100234: livingRoomTable_04:rightLeg_02
+    100236: livingRoomTable_04:table
+    100238: livingRoomTable_04:table 1
+    100240: posterFrame_03:pictureFrame
+    100242: posterFrame_04:pictureFrame
+    100244: posterFrame_05:pictureFrame
+    100246: shelf_02:shelf
+    100248: shelf_03:shelf
+    100250: shelf_04:shelf
+    100252: shelf_05:shelf
+    100254: shelf_06:shelf
+    100256: standingLamp_04:lightBase
+    100258: standingLamp_04:lightDome
+    100260: standingLamp_04:secondaryLight
+    100262: standingLamp_04:smallLightDome
+    100264: standingLamp_04:smallLightSupport
+    100266: standingLamp_04:smallLightWire
+    100268: standingLamp_04:standingLight
+    100270: standingLamp_05:lightBase
+    100272: standingLamp_05:lightDome
+    100274: standingLamp_05:secondaryLight
+    100276: standingLamp_05:smallLightDome
+    100278: standingLamp_05:smallLightSupport
+    100280: standingLamp_05:smallLightWire
+    100282: standingLamp_05:standingLight
+    100284: television_02:tv
+    100286: television_02:TV_grp
+    100288: television_02:tvStand
+    100290: television_02:tvSupport
+    100292: TrumpetCase_02:trumpetCase
+    100294: TrumpetCase_02:trumpetCase_grp
+    100296: WasherDryer_02:dryerLeftDial
+    100298: WasherDryer_02:dryerRightDial_01
+    100300: WasherDryer_02:dryerRightDial_02
+    100302: WasherDryer_02:dryerRightDialKnob
+    100304: WasherDryer_02:DryerUnit
+    100306: WasherDryer_02:wasaherLeftDial_01
+    100308: WasherDryer_02:wasaherLeftDial_02
+    100310: WasherDryer_02:wasaherLeftDial_03
+    100312: WasherDryer_02:wasaherLeftDialKnob
+    100314: WasherDryer_02:washerDryer_grp
+    100316: WasherDryer_02:washerRightDial
+    100318: WasherDryer_02:washerUnit
+    400000: Bed_w_blankets_2:backBottomRack
+    400002: Bed_w_blankets_2:backLeftHinge
+    400004: Bed_w_blankets_2:backLeftPost
+    400006: Bed_w_blankets_2:backMiddleRack
+    400008: Bed_w_blankets_2:backRightHinge
+    400010: Bed_w_blankets_2:backRightPost
+    400012: Bed_w_blankets_2:backTopRack
+    400014: Bed_w_blankets_2:bed_grp
+    400016: Bed_w_blankets_2:bedFrame
+    400018: Bed_w_blankets_2:blanketOver
+    400020: Bed_w_blankets_2:blanketUnder
+    400022: Bed_w_blankets_2:frontBottomPost
+    400024: Bed_w_blankets_2:frontLeftHinge
+    400026: Bed_w_blankets_2:frontLeftPost
+    400028: Bed_w_blankets_2:frontMiddlePost
+    400030: Bed_w_blankets_2:frontRightHinge
+    400032: Bed_w_blankets_2:frontRightPost
+    400034: Bed_w_blankets_2:frontTopPost
+    400036: Bed_w_blankets_2:leftFrameBar
+    400038: Bed_w_blankets_2:mattress
+    400040: Bed_w_blankets_2:rightFrameBar
+    400042: Bed_w_blankets_3:backBottomRack
+    400044: Bed_w_blankets_3:backLeftHinge
+    400046: Bed_w_blankets_3:backLeftPost
+    400048: Bed_w_blankets_3:backMiddleRack
+    400050: Bed_w_blankets_3:backRightHinge
+    400052: Bed_w_blankets_3:backRightPost
+    400054: Bed_w_blankets_3:backTopRack
+    400056: Bed_w_blankets_3:bed_grp
+    400058: Bed_w_blankets_3:bedFrame
+    400060: Bed_w_blankets_3:blanketOver
+    400062: Bed_w_blankets_3:blanketUnder
+    400064: Bed_w_blankets_3:frontBottomPost
+    400066: Bed_w_blankets_3:frontLeftHinge
+    400068: Bed_w_blankets_3:frontLeftPost
+    400070: Bed_w_blankets_3:frontMiddlePost
+    400072: Bed_w_blankets_3:frontRightHinge
+    400074: Bed_w_blankets_3:frontRightPost
+    400076: Bed_w_blankets_3:frontTopPost
+    400078: Bed_w_blankets_3:leftFrameBar
+    400080: Bed_w_blankets_3:mattress
+    400082: Bed_w_blankets_3:rightFrameBar
+    400084: chair
+    400086: chair_02:chair
+    400088: couch_02:couch
+    400090: desk_02:deskStand
+    400092: desk_03:deskStand
+    400094: desk_04:deskStand
+    400096: //RootNode
+    400098: dormRoom_WITH_Roof
+    400100: dresser_13:dresser
+    400102: dresser_13:dresserBody
+    400104: dresser_13:midDrawer_01
+    400106: dresser_13:midDrawer_02
+    400108: dresser_13:midDrawer_03
+    400110: dresser_13:topLeftDrawer_01
+    400112: dresser_13:topLeftDrawer_02
+    400114: dresser_13:topRightDrawer_01
+    400116: dresser_13:topRightDrawer_02
+    400118: dresser_14:dresser
+    400120: dresser_14:dresserBody
+    400122: dresser_14:midDrawer_01
+    400124: dresser_14:midDrawer_02
+    400126: dresser_14:midDrawer_03
+    400128: dresser_14:topLeftDrawer_01
+    400130: dresser_14:topLeftDrawer_02
+    400132: dresser_14:topRightDrawer_01
+    400134: dresser_14:topRightDrawer_02
+    400136: guitar_09_HighRes:fretBoard
+    400138: guitar_09_HighRes:fretEnd
+    400140: guitar_09_HighRes:guitar
+    400142: guitar_09_HighRes:guitarBackSupport
+    400144: guitar_09_HighRes:guitarBody
+    400146: guitar_09_HighRes:guitarHead
+    400148: guitar_09_HighRes:knob
+    400150: guitar_09_HighRes:knob 1
+    400152: guitar_09_HighRes:knob 2
+    400154: guitar_09_HighRes:knob 3
+    400156: guitar_09_HighRes:knob 4
+    400158: guitar_09_HighRes:knob 5
+    400160: guitar_09_HighRes:knob_01
+    400162: guitar_09_HighRes:knob_02
+    400164: guitar_09_HighRes:knob_03
+    400166: guitar_09_HighRes:knob_04
+    400168: guitar_09_HighRes:knob_05
+    400170: guitar_09_HighRes:knob_06
+    400172: guitar_09_HighRes:knob_grp
+    400174: guitar_09_HighRes:knobPlate
+    400176: guitar_09_HighRes:knobPlate 1
+    400178: guitar_09_HighRes:knobPlate 2
+    400180: guitar_09_HighRes:knobPlate 3
+    400182: guitar_09_HighRes:knobPlate 4
+    400184: guitar_09_HighRes:knobPlate 5
+    400186: guitar_09_HighRes:knobPole
+    400188: guitar_09_HighRes:knobPole 1
+    400190: guitar_09_HighRes:knobPole 2
+    400192: guitar_09_HighRes:knobPole 3
+    400194: guitar_09_HighRes:knobPole 4
+    400196: guitar_09_HighRes:knobPole 5
+    400198: guitar_09_HighRes:knobStringTie
+    400200: guitar_09_HighRes:knobStringTie 1
+    400202: guitar_09_HighRes:knobStringTie 2
+    400204: guitar_09_HighRes:knobStringTie 3
+    400206: guitar_09_HighRes:knobStringTie 4
+    400208: guitar_09_HighRes:knobStringTie 5
+    400210: laundrybasket_02:pCube22
+    400212: laundrybasket_03:pCube22
+    400214: laundrybasket_04:pCube22
+    400216: livingRoomTable_03:leftLeg_01
+    400218: livingRoomTable_03:leftLeg_02
+    400220: livingRoomTable_03:rightLeg_01
+    400222: livingRoomTable_03:rightLeg_02
+    400224: livingRoomTable_03:table
+    400226: livingRoomTable_03:table 1
+    400228: livingRoomTable_04:leftLeg_01
+    400230: livingRoomTable_04:leftLeg_02
+    400232: livingRoomTable_04:rightLeg_01
+    400234: livingRoomTable_04:rightLeg_02
+    400236: livingRoomTable_04:table
+    400238: livingRoomTable_04:table 1
+    400240: posterFrame_03:pictureFrame
+    400242: posterFrame_04:pictureFrame
+    400244: posterFrame_05:pictureFrame
+    400246: shelf_02:shelf
+    400248: shelf_03:shelf
+    400250: shelf_04:shelf
+    400252: shelf_05:shelf
+    400254: shelf_06:shelf
+    400256: standingLamp_04:lightBase
+    400258: standingLamp_04:lightDome
+    400260: standingLamp_04:secondaryLight
+    400262: standingLamp_04:smallLightDome
+    400264: standingLamp_04:smallLightSupport
+    400266: standingLamp_04:smallLightWire
+    400268: standingLamp_04:standingLight
+    400270: standingLamp_05:lightBase
+    400272: standingLamp_05:lightDome
+    400274: standingLamp_05:secondaryLight
+    400276: standingLamp_05:smallLightDome
+    400278: standingLamp_05:smallLightSupport
+    400280: standingLamp_05:smallLightWire
+    400282: standingLamp_05:standingLight
+    400284: television_02:tv
+    400286: television_02:TV_grp
+    400288: television_02:tvStand
+    400290: television_02:tvSupport
+    400292: TrumpetCase_02:trumpetCase
+    400294: TrumpetCase_02:trumpetCase_grp
+    400296: WasherDryer_02:dryerLeftDial
+    400298: WasherDryer_02:dryerRightDial_01
+    400300: WasherDryer_02:dryerRightDial_02
+    400302: WasherDryer_02:dryerRightDialKnob
+    400304: WasherDryer_02:DryerUnit
+    400306: WasherDryer_02:wasaherLeftDial_01
+    400308: WasherDryer_02:wasaherLeftDial_02
+    400310: WasherDryer_02:wasaherLeftDial_03
+    400312: WasherDryer_02:wasaherLeftDialKnob
+    400314: WasherDryer_02:washerDryer_grp
+    400316: WasherDryer_02:washerRightDial
+    400318: WasherDryer_02:washerUnit
+    2300000: Bed_w_blankets_2:backBottomRack
+    2300002: Bed_w_blankets_2:backLeftHinge
+    2300004: Bed_w_blankets_2:backLeftPost
+    2300006: Bed_w_blankets_2:backMiddleRack
+    2300008: Bed_w_blankets_2:backRightHinge
+    2300010: Bed_w_blankets_2:backRightPost
+    2300012: Bed_w_blankets_2:backTopRack
+    2300014: Bed_w_blankets_2:blanketOver
+    2300016: Bed_w_blankets_2:blanketUnder
+    2300018: Bed_w_blankets_2:frontBottomPost
+    2300020: Bed_w_blankets_2:frontLeftHinge
+    2300022: Bed_w_blankets_2:frontLeftPost
+    2300024: Bed_w_blankets_2:frontMiddlePost
+    2300026: Bed_w_blankets_2:frontRightHinge
+    2300028: Bed_w_blankets_2:frontRightPost
+    2300030: Bed_w_blankets_2:frontTopPost
+    2300032: Bed_w_blankets_2:leftFrameBar
+    2300034: Bed_w_blankets_2:mattress
+    2300036: Bed_w_blankets_2:rightFrameBar
+    2300038: Bed_w_blankets_3:backBottomRack
+    2300040: Bed_w_blankets_3:backLeftHinge
+    2300042: Bed_w_blankets_3:backLeftPost
+    2300044: Bed_w_blankets_3:backMiddleRack
+    2300046: Bed_w_blankets_3:backRightHinge
+    2300048: Bed_w_blankets_3:backRightPost
+    2300050: Bed_w_blankets_3:backTopRack
+    2300052: Bed_w_blankets_3:blanketOver
+    2300054: Bed_w_blankets_3:blanketUnder
+    2300056: Bed_w_blankets_3:frontBottomPost
+    2300058: Bed_w_blankets_3:frontLeftHinge
+    2300060: Bed_w_blankets_3:frontLeftPost
+    2300062: Bed_w_blankets_3:frontMiddlePost
+    2300064: Bed_w_blankets_3:frontRightHinge
+    2300066: Bed_w_blankets_3:frontRightPost
+    2300068: Bed_w_blankets_3:frontTopPost
+    2300070: Bed_w_blankets_3:leftFrameBar
+    2300072: Bed_w_blankets_3:mattress
+    2300074: Bed_w_blankets_3:rightFrameBar
+    2300076: chair
+    2300078: chair_02:chair
+    2300080: couch_02:couch
+    2300082: desk_02:deskStand
+    2300084: desk_03:deskStand
+    2300086: desk_04:deskStand
+    2300088: dormRoom_WITH_Roof
+    2300090: dresser_13:dresserBody
+    2300092: dresser_13:midDrawer_01
+    2300094: dresser_13:midDrawer_02
+    2300096: dresser_13:midDrawer_03
+    2300098: dresser_13:topLeftDrawer_01
+    2300100: dresser_13:topLeftDrawer_02
+    2300102: dresser_13:topRightDrawer_01
+    2300104: dresser_13:topRightDrawer_02
+    2300106: dresser_14:dresserBody
+    2300108: dresser_14:midDrawer_01
+    2300110: dresser_14:midDrawer_02
+    2300112: dresser_14:midDrawer_03
+    2300114: dresser_14:topLeftDrawer_01
+    2300116: dresser_14:topLeftDrawer_02
+    2300118: dresser_14:topRightDrawer_01
+    2300120: dresser_14:topRightDrawer_02
+    2300122: guitar_09_HighRes:fretBoard
+    2300124: guitar_09_HighRes:fretEnd
+    2300126: guitar_09_HighRes:guitarBackSupport
+    2300128: guitar_09_HighRes:guitarBody
+    2300130: guitar_09_HighRes:guitarHead
+    2300132: guitar_09_HighRes:knob
+    2300134: guitar_09_HighRes:knob 1
+    2300136: guitar_09_HighRes:knob 2
+    2300138: guitar_09_HighRes:knob 3
+    2300140: guitar_09_HighRes:knob 4
+    2300142: guitar_09_HighRes:knob 5
+    2300144: guitar_09_HighRes:knobPlate
+    2300146: guitar_09_HighRes:knobPlate 1
+    2300148: guitar_09_HighRes:knobPlate 2
+    2300150: guitar_09_HighRes:knobPlate 3
+    2300152: guitar_09_HighRes:knobPlate 4
+    2300154: guitar_09_HighRes:knobPlate 5
+    2300156: guitar_09_HighRes:knobPole
+    2300158: guitar_09_HighRes:knobPole 1
+    2300160: guitar_09_HighRes:knobPole 2
+    2300162: guitar_09_HighRes:knobPole 3
+    2300164: guitar_09_HighRes:knobPole 4
+    2300166: guitar_09_HighRes:knobPole 5
+    2300168: guitar_09_HighRes:knobStringTie
+    2300170: guitar_09_HighRes:knobStringTie 1
+    2300172: guitar_09_HighRes:knobStringTie 2
+    2300174: guitar_09_HighRes:knobStringTie 3
+    2300176: guitar_09_HighRes:knobStringTie 4
+    2300178: guitar_09_HighRes:knobStringTie 5
+    2300180: laundrybasket_02:pCube22
+    2300182: laundrybasket_03:pCube22
+    2300184: laundrybasket_04:pCube22
+    2300186: livingRoomTable_03:leftLeg_01
+    2300188: livingRoomTable_03:leftLeg_02
+    2300190: livingRoomTable_03:rightLeg_01
+    2300192: livingRoomTable_03:rightLeg_02
+    2300194: livingRoomTable_03:table 1
+    2300196: livingRoomTable_04:leftLeg_01
+    2300198: livingRoomTable_04:leftLeg_02
+    2300200: livingRoomTable_04:rightLeg_01
+    2300202: livingRoomTable_04:rightLeg_02
+    2300204: livingRoomTable_04:table 1
+    2300206: posterFrame_03:pictureFrame
+    2300208: posterFrame_04:pictureFrame
+    2300210: posterFrame_05:pictureFrame
+    2300212: shelf_02:shelf
+    2300214: shelf_03:shelf
+    2300216: shelf_04:shelf
+    2300218: shelf_05:shelf
+    2300220: shelf_06:shelf
+    2300222: standingLamp_04:lightBase
+    2300224: standingLamp_04:lightDome
+    2300226: standingLamp_04:smallLightDome
+    2300228: standingLamp_04:smallLightSupport
+    2300230: standingLamp_04:smallLightWire
+    2300232: standingLamp_05:lightBase
+    2300234: standingLamp_05:lightDome
+    2300236: standingLamp_05:smallLightDome
+    2300238: standingLamp_05:smallLightSupport
+    2300240: standingLamp_05:smallLightWire
+    2300242: television_02:tv
+    2300244: television_02:tvStand
+    2300246: television_02:tvSupport
+    2300248: TrumpetCase_02:trumpetCase
+    2300250: WasherDryer_02:dryerLeftDial
+    2300252: WasherDryer_02:dryerRightDial_01
+    2300254: WasherDryer_02:dryerRightDial_02
+    2300256: WasherDryer_02:dryerRightDialKnob
+    2300258: WasherDryer_02:DryerUnit
+    2300260: WasherDryer_02:wasaherLeftDial_01
+    2300262: WasherDryer_02:wasaherLeftDial_02
+    2300264: WasherDryer_02:wasaherLeftDial_03
+    2300266: WasherDryer_02:wasaherLeftDialKnob
+    2300268: WasherDryer_02:washerRightDial
+    2300270: WasherDryer_02:washerUnit
+    3300000: Bed_w_blankets_2:backBottomRack
+    3300002: Bed_w_blankets_2:backLeftHinge
+    3300004: Bed_w_blankets_2:backLeftPost
+    3300006: Bed_w_blankets_2:backMiddleRack
+    3300008: Bed_w_blankets_2:backRightHinge
+    3300010: Bed_w_blankets_2:backRightPost
+    3300012: Bed_w_blankets_2:backTopRack
+    3300014: Bed_w_blankets_2:blanketOver
+    3300016: Bed_w_blankets_2:blanketUnder
+    3300018: Bed_w_blankets_2:frontBottomPost
+    3300020: Bed_w_blankets_2:frontLeftHinge
+    3300022: Bed_w_blankets_2:frontLeftPost
+    3300024: Bed_w_blankets_2:frontMiddlePost
+    3300026: Bed_w_blankets_2:frontRightHinge
+    3300028: Bed_w_blankets_2:frontRightPost
+    3300030: Bed_w_blankets_2:frontTopPost
+    3300032: Bed_w_blankets_2:leftFrameBar
+    3300034: Bed_w_blankets_2:mattress
+    3300036: Bed_w_blankets_2:rightFrameBar
+    3300038: Bed_w_blankets_3:backBottomRack
+    3300040: Bed_w_blankets_3:backLeftHinge
+    3300042: Bed_w_blankets_3:backLeftPost
+    3300044: Bed_w_blankets_3:backMiddleRack
+    3300046: Bed_w_blankets_3:backRightHinge
+    3300048: Bed_w_blankets_3:backRightPost
+    3300050: Bed_w_blankets_3:backTopRack
+    3300052: Bed_w_blankets_3:blanketOver
+    3300054: Bed_w_blankets_3:blanketUnder
+    3300056: Bed_w_blankets_3:frontBottomPost
+    3300058: Bed_w_blankets_3:frontLeftHinge
+    3300060: Bed_w_blankets_3:frontLeftPost
+    3300062: Bed_w_blankets_3:frontMiddlePost
+    3300064: Bed_w_blankets_3:frontRightHinge
+    3300066: Bed_w_blankets_3:frontRightPost
+    3300068: Bed_w_blankets_3:frontTopPost
+    3300070: Bed_w_blankets_3:leftFrameBar
+    3300072: Bed_w_blankets_3:mattress
+    3300074: Bed_w_blankets_3:rightFrameBar
+    3300076: chair
+    3300078: chair_02:chair
+    3300080: couch_02:couch
+    3300082: desk_02:deskStand
+    3300084: desk_03:deskStand
+    3300086: desk_04:deskStand
+    3300088: dormRoom_WITH_Roof
+    3300090: dresser_13:dresserBody
+    3300092: dresser_13:midDrawer_01
+    3300094: dresser_13:midDrawer_02
+    3300096: dresser_13:midDrawer_03
+    3300098: dresser_13:topLeftDrawer_01
+    3300100: dresser_13:topLeftDrawer_02
+    3300102: dresser_13:topRightDrawer_01
+    3300104: dresser_13:topRightDrawer_02
+    3300106: dresser_14:dresserBody
+    3300108: dresser_14:midDrawer_01
+    3300110: dresser_14:midDrawer_02
+    3300112: dresser_14:midDrawer_03
+    3300114: dresser_14:topLeftDrawer_01
+    3300116: dresser_14:topLeftDrawer_02
+    3300118: dresser_14:topRightDrawer_01
+    3300120: dresser_14:topRightDrawer_02
+    3300122: guitar_09_HighRes:fretBoard
+    3300124: guitar_09_HighRes:fretEnd
+    3300126: guitar_09_HighRes:guitarBackSupport
+    3300128: guitar_09_HighRes:guitarBody
+    3300130: guitar_09_HighRes:guitarHead
+    3300132: guitar_09_HighRes:knob
+    3300134: guitar_09_HighRes:knob 1
+    3300136: guitar_09_HighRes:knob 2
+    3300138: guitar_09_HighRes:knob 3
+    3300140: guitar_09_HighRes:knob 4
+    3300142: guitar_09_HighRes:knob 5
+    3300144: guitar_09_HighRes:knobPlate
+    3300146: guitar_09_HighRes:knobPlate 1
+    3300148: guitar_09_HighRes:knobPlate 2
+    3300150: guitar_09_HighRes:knobPlate 3
+    3300152: guitar_09_HighRes:knobPlate 4
+    3300154: guitar_09_HighRes:knobPlate 5
+    3300156: guitar_09_HighRes:knobPole
+    3300158: guitar_09_HighRes:knobPole 1
+    3300160: guitar_09_HighRes:knobPole 2
+    3300162: guitar_09_HighRes:knobPole 3
+    3300164: guitar_09_HighRes:knobPole 4
+    3300166: guitar_09_HighRes:knobPole 5
+    3300168: guitar_09_HighRes:knobStringTie
+    3300170: guitar_09_HighRes:knobStringTie 1
+    3300172: guitar_09_HighRes:knobStringTie 2
+    3300174: guitar_09_HighRes:knobStringTie 3
+    3300176: guitar_09_HighRes:knobStringTie 4
+    3300178: guitar_09_HighRes:knobStringTie 5
+    3300180: laundrybasket_02:pCube22
+    3300182: laundrybasket_03:pCube22
+    3300184: laundrybasket_04:pCube22
+    3300186: livingRoomTable_03:leftLeg_01
+    3300188: livingRoomTable_03:leftLeg_02
+    3300190: livingRoomTable_03:rightLeg_01
+    3300192: livingRoomTable_03:rightLeg_02
+    3300194: livingRoomTable_03:table 1
+    3300196: livingRoomTable_04:leftLeg_01
+    3300198: livingRoomTable_04:leftLeg_02
+    3300200: livingRoomTable_04:rightLeg_01
+    3300202: livingRoomTable_04:rightLeg_02
+    3300204: livingRoomTable_04:table 1
+    3300206: posterFrame_03:pictureFrame
+    3300208: posterFrame_04:pictureFrame
+    3300210: posterFrame_05:pictureFrame
+    3300212: shelf_02:shelf
+    3300214: shelf_03:shelf
+    3300216: shelf_04:shelf
+    3300218: shelf_05:shelf
+    3300220: shelf_06:shelf
+    3300222: standingLamp_04:lightBase
+    3300224: standingLamp_04:lightDome
+    3300226: standingLamp_04:smallLightDome
+    3300228: standingLamp_04:smallLightSupport
+    3300230: standingLamp_04:smallLightWire
+    3300232: standingLamp_05:lightBase
+    3300234: standingLamp_05:lightDome
+    3300236: standingLamp_05:smallLightDome
+    3300238: standingLamp_05:smallLightSupport
+    3300240: standingLamp_05:smallLightWire
+    3300242: television_02:tv
+    3300244: television_02:tvStand
+    3300246: television_02:tvSupport
+    3300248: TrumpetCase_02:trumpetCase
+    3300250: WasherDryer_02:dryerLeftDial
+    3300252: WasherDryer_02:dryerRightDial_01
+    3300254: WasherDryer_02:dryerRightDial_02
+    3300256: WasherDryer_02:dryerRightDialKnob
+    3300258: WasherDryer_02:DryerUnit
+    3300260: WasherDryer_02:wasaherLeftDial_01
+    3300262: WasherDryer_02:wasaherLeftDial_02
+    3300264: WasherDryer_02:wasaherLeftDial_03
+    3300266: WasherDryer_02:wasaherLeftDialKnob
+    3300268: WasherDryer_02:washerRightDial
+    3300270: WasherDryer_02:washerUnit
+    4300000: dormRoom_WITH_Roof
+    4300002: TrumpetCase_02:trumpetCase
+    4300004: couch_02:couch
+    4300006: chair_02:chair
+    4300008: chair
+    4300010: desk_02:deskStand
+    4300012: desk_03:deskStand
+    4300014: desk_04:deskStand
+    4300016: television_02:tvStand
+    4300018: television_02:tvSupport
+    4300020: television_02:tv
+    4300022: standingLamp_04:lightBase
+    4300024: standingLamp_04:lightDome
+    4300026: standingLamp_04:smallLightDome
+    4300028: standingLamp_04:smallLightSupport
+    4300030: standingLamp_04:smallLightWire
+    4300032: laundrybasket_02:pCube22
+    4300034: Bed_w_blankets_2:backLeftPost
+    4300036: Bed_w_blankets_2:backRightPost
+    4300038: Bed_w_blankets_2:backMiddleRack
+    4300040: Bed_w_blankets_2:backTopRack
+    4300042: Bed_w_blankets_2:backBottomRack
+    4300044: Bed_w_blankets_2:frontRightPost
+    4300046: Bed_w_blankets_2:frontBottomPost
+    4300048: Bed_w_blankets_2:frontMiddlePost
+    4300050: Bed_w_blankets_2:frontTopPost
+    4300052: Bed_w_blankets_2:frontLeftPost
+    4300054: Bed_w_blankets_2:leftFrameBar
+    4300056: Bed_w_blankets_2:backRightHinge
+    4300058: Bed_w_blankets_2:frontRightHinge
+    4300060: Bed_w_blankets_2:frontLeftHinge
+    4300062: Bed_w_blankets_2:backLeftHinge
+    4300064: Bed_w_blankets_2:rightFrameBar
+    4300066: Bed_w_blankets_2:mattress
+    4300068: Bed_w_blankets_2:blanketUnder
+    4300070: Bed_w_blankets_2:blanketOver
+    4300072: dresser_13:midDrawer_03
+    4300074: dresser_13:midDrawer_02
+    4300076: dresser_13:midDrawer_01
+    4300078: dresser_13:topRightDrawer_02
+    4300080: dresser_13:topLeftDrawer_02
+    4300082: dresser_13:topRightDrawer_01
+    4300084: dresser_13:topLeftDrawer_01
+    4300086: dresser_13:dresserBody
+    4300088: WasherDryer_02:washerUnit
+    4300090: WasherDryer_02:washerRightDial
+    4300092: WasherDryer_02:wasaherLeftDial_03
+    4300094: WasherDryer_02:wasaherLeftDial_02
+    4300096: WasherDryer_02:wasaherLeftDial_01
+    4300098: WasherDryer_02:wasaherLeftDialKnob
+    4300100: WasherDryer_02:DryerUnit
+    4300102: WasherDryer_02:dryerRightDial_02
+    4300104: WasherDryer_02:dryerRightDial_01
+    4300106: WasherDryer_02:dryerLeftDial
+    4300108: WasherDryer_02:dryerRightDialKnob
+    4300110: laundrybasket_03:pCube22
+    4300112: laundrybasket_04:pCube22
+    4300114: guitar_09_HighRes:guitarBackSupport
+    4300116: guitar_09_HighRes:fretBoard
+    4300118: guitar_09_HighRes:guitarHead
+    4300120: guitar_09_HighRes:guitarBody
+    4300122: guitar_09_HighRes:knobPole
+    4300124: guitar_09_HighRes:knob
+    4300126: guitar_09_HighRes:knobPlate
+    4300128: guitar_09_HighRes:knobStringTie
+    4300130: guitar_09_HighRes:knobPole
+    4300132: guitar_09_HighRes:knob
+    4300134: guitar_09_HighRes:knobPlate
+    4300136: guitar_09_HighRes:knobStringTie
+    4300138: guitar_09_HighRes:knobPole
+    4300140: guitar_09_HighRes:knob
+    4300142: guitar_09_HighRes:knobPlate
+    4300144: guitar_09_HighRes:knobStringTie
+    4300146: guitar_09_HighRes:knobPole
+    4300148: guitar_09_HighRes:knob
+    4300150: guitar_09_HighRes:knobPlate
+    4300152: guitar_09_HighRes:knobStringTie
+    4300154: guitar_09_HighRes:knobPole
+    4300156: guitar_09_HighRes:knob
+    4300158: guitar_09_HighRes:knobPlate
+    4300160: guitar_09_HighRes:knobStringTie
+    4300162: guitar_09_HighRes:knobPole
+    4300164: guitar_09_HighRes:knob
+    4300166: guitar_09_HighRes:knobPlate
+    4300168: guitar_09_HighRes:knobStringTie
+    4300170: guitar_09_HighRes:fretEnd
+    4300172: shelf_02:shelf
+    4300174: shelf_03:shelf
+    4300176: standingLamp_05:lightBase
+    4300178: standingLamp_05:lightDome
+    4300180: standingLamp_05:smallLightDome
+    4300182: standingLamp_05:smallLightSupport
+    4300184: standingLamp_05:smallLightWire
+    4300186: Bed_w_blankets_3:backLeftPost
+    4300188: Bed_w_blankets_3:backRightPost
+    4300190: Bed_w_blankets_3:backMiddleRack
+    4300192: Bed_w_blankets_3:backTopRack
+    4300194: Bed_w_blankets_3:backBottomRack
+    4300196: Bed_w_blankets_3:frontRightPost
+    4300198: Bed_w_blankets_3:frontBottomPost
+    4300200: Bed_w_blankets_3:frontMiddlePost
+    4300202: Bed_w_blankets_3:frontTopPost
+    4300204: Bed_w_blankets_3:frontLeftPost
+    4300206: Bed_w_blankets_3:leftFrameBar
+    4300208: Bed_w_blankets_3:backRightHinge
+    4300210: Bed_w_blankets_3:frontRightHinge
+    4300212: Bed_w_blankets_3:frontLeftHinge
+    4300214: Bed_w_blankets_3:backLeftHinge
+    4300216: Bed_w_blankets_3:rightFrameBar
+    4300218: Bed_w_blankets_3:mattress
+    4300220: Bed_w_blankets_3:blanketUnder
+    4300222: Bed_w_blankets_3:blanketOver
+    4300224: dresser_14:midDrawer_03
+    4300226: dresser_14:midDrawer_02
+    4300228: dresser_14:midDrawer_01
+    4300230: dresser_14:topRightDrawer_02
+    4300232: dresser_14:topLeftDrawer_02
+    4300234: dresser_14:topRightDrawer_01
+    4300236: dresser_14:topLeftDrawer_01
+    4300238: dresser_14:dresserBody
+    4300240: shelf_04:shelf
+    4300242: shelf_05:shelf
+    4300244: shelf_06:shelf
+    4300246: livingRoomTable_03:rightLeg_01
+    4300248: livingRoomTable_03:rightLeg_02
+    4300250: livingRoomTable_03:leftLeg_01
+    4300252: livingRoomTable_03:leftLeg_02
+    4300254: livingRoomTable_03:table
+    4300256: livingRoomTable_04:rightLeg_01
+    4300258: livingRoomTable_04:rightLeg_02
+    4300260: livingRoomTable_04:leftLeg_01
+    4300262: livingRoomTable_04:leftLeg_02
+    4300264: livingRoomTable_04:table
+    4300266: posterFrame_03:pictureFrame
+    4300268: posterFrame_04:pictureFrame
+    4300270: posterFrame_05:pictureFrame
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
